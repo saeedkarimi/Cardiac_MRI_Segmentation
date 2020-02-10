@@ -1,1 +1,1 @@
-# CMR_Segmentation
+# Cardiac_MRI_Segmentation
