@@ -25,3 +25,7 @@ The index of training and test subjects are provided below:
 ## Acknowledgments
 
 The authors wish to thank all participants and staff in this study that was carried out in part at the Children’s Hospital Los Angeles.
+
+## Copyright
+
+The data may be used provided that the source of the data ([Web Link](https://github.com/saeedkarimi/Cardiac_MRI_Segmentation)) is acknowledged.
