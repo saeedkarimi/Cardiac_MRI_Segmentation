@@ -1,65 +1,65 @@
-Subjects,Disease,Pixel Size (dx),Pixel Size (dy),Slice Thickness,Spacing Between Slices
-1,Transposition of the Great Arteries,1.9012,1.9012,8,8
-2,Pulmonary Atresia,2.5803,2.5803,8,8
-3,Tetralogy of Fallot,1.9012,1.9012,8,8
-4,Coronary Artery Anomaly,1.7654,1.7654,5.5,5.5
-5,Transposition of the Great Arteries,1.7654,1.7654,5,5
-6,Tetralogy of Fallot,2.8444,2.8444,10,10
-7,Cardiomyopathy,2.1423,2.1423,8,8
-8,Coronary Artery Anomaly,2.037,2.037,8,8
-9,Tetralogy of Fallot,1.5617,1.5617,5,5
-10,Tetralogy of Fallot,1.9012,1.9012,8,8
-11,Aortic Dilation,2.037,2.037,8,8.8
-12,Cardiomyopathy,2.028,2.028,8,8
-13,Coronary Artery Anomaly,1.9012,1.9012,6,6
-14,Cardiomyopathy,2.153,2.153,8,8
-15,Cardiomyopathy,1.7654,1.7654,8,8
-16,Tetralogy of Fallot,1.5617,1.5617,6,6
-17,Truncus Arteriosus,2.3087,2.3087,10,10
-18,Cardiomyopathy,2.5803,2.5803,8,9
-19,Cardiomyopathy,1.9481,1.9481,7,7
-20,Cardiomyopathy,2.3921,2.3921,10,10
-21,Aortic Dilation,1.6296,1.6296,6,6
-22,Coronary Artery Anomaly,1.4938,1.4938,8,8
-23,Pulmonary Atresia,1.9691,1.9691,6,6
-24,Tetralogy of Fallot,1.7654,1.7654,5,5
-25,Tetralogy of Fallot,2.1729,2.1729,7,7
-26,Truncus Arteriosus,1.4938,1.4938,5,5
-27,Cardiomyopathy,1.7654,1.7654,8,8
-28,Tetralogy of Fallot,2.037,2.037,7,7
-29,Tetralogy of Fallot,2.5803,2.5803,8,8
-30,Pulmonary Stenosis,1.7654,1.7654,8,8
-31,Tetralogy of Fallot,2.4445,2.4445,7,7
-32,Tetralogy of Fallot,2.037,2.037,8,8
-33,Tetralogy of Fallot,1.7654,1.7654,6,6.6
-34,Double Outlet Right Ventricle,1.6296,1.6296,5,5
-35,Tetralogy of Fallot,1.5617,1.5617,5,5
-36,Tetralogy of Fallot,1.7654,1.7654,5,5
-37,Tetralogy of Fallot,1.358,1.358,6,6
-38,Pulmonary Atresia,1.9012,1.9012,8,8
-39,Double Outlet Right Ventricle,1.5617,1.5617,5,5
-40,Tetralogy of Fallot,2.1729,2.1729,8,8
-41,Tetralogy of Fallot,2.3766,2.3766,8,8
-42,Double Outlet Right Ventricle,1.6296,1.6296,5,5
-43,Transposition of the Great Arteries,2.5803,2.5803,8,8
-44,Transposition of the Great Arteries,1.4938,1.4938,6,6
-45,Tetralogy of Fallot,2.1729,2.1729,7,7
-46,Tetralogy of Fallot,1.5617,1.5617,5,5
-47,Truncus Arteriosus,1.7654,1.7654,7,7
-48,Tetralogy of Fallot,1.6296,1.6296,5,5
-49,Double Outlet Right Ventricle,1.4938,1.4938,5,5
-50,Coronary Artery Anomaly,1.6296,1.6296,6,6
-51,Coronary Artery Anomaly,2.1729,2.1729,8,8
-52,Coronary Artery Anomaly,1.6296,1.6296,7.5,7.5
-53,Coronary Artery Anomaly,1.7654,1.7654,6,6
-54,Coronary Artery Anomaly,1.358,1.358,5,5
-55,Double Outlet Right Ventricle,1.7665,1.7665,6,6
-56,Double Outlet Right Ventricle,1.4941,1.4941,6,6
-57,Double Outlet Right Ventricle,2.0373,2.0373,7,7
-58,Double Outlet Right Ventricle,2.1726,2.1726,8,8
-59,Double Outlet Right Ventricle,1.9008,1.9008,8,8
-60,Transposition of the Great Arteries,2.5813,2.5813,10,10
-61,Transposition of the Great Arteries,1.5621,1.5621,9,9
-62,Transposition of the Great Arteries,2.1729,2.1729,8,8
-63,Transposition of the Great Arteries,2.1051,2.1051,8,8
-64,Transposition of the Great Arteries,2.2406,2.2406,8,8
+Subjects,Disease,Pixel Size (dx),Pixel Size (dy),Slice Thickness,Spacing Between Slices,Acquisition Matrix
+1,Transposition of the Great Arteries,1.9012,1.9012,8,8,"(384, 384)"
+2,Pulmonary Atresia,2.5803,2.5803,8,8,"(480, 480)"
+3,Tetralogy of Fallot,1.9012,1.9012,8,8,"(352, 352)"
+4,Coronary Artery Anomaly,1.7654,1.7654,5.5,5.5,"(320, 320)"
+5,Transposition of the Great Arteries,1.7654,1.7654,5,5,"(320, 320)"
+6,Tetralogy of Fallot,2.8444,2.8444,10,10,"(560, 560)"
+7,Cardiomyopathy,2.1423,2.1423,8,8,"(432, 432)"
+8,Coronary Artery Anomaly,2.037,2.037,8,8,"(384, 384)"
+9,Tetralogy of Fallot,1.5617,1.5617,5,5,"(320, 320)"
+10,Tetralogy of Fallot,1.9012,1.9012,8,8,"(384, 384)"
+11,Aortic Dilation,2.037,2.037,8,8.8,"(384, 384)"
+12,Cardiomyopathy,2.028,2.028,8,8,"(384, 384)"
+13,Coronary Artery Anomaly,1.9012,1.9012,6,6,"(352, 352)"
+14,Cardiomyopathy,2.153,2.153,8,8,"(400, 400)"
+15,Cardiomyopathy,1.7654,1.7654,8,8,"(320, 320)"
+16,Tetralogy of Fallot,1.5617,1.5617,6,6,"(320, 320)"
+17,Truncus Arteriosus,2.3087,2.3087,10,10,"(480, 480)"
+18,Cardiomyopathy,2.5803,2.5803,8,9,"(480, 480)"
+19,Cardiomyopathy,1.9481,1.9481,7,7,"(384, 384)"
+20,Cardiomyopathy,2.3921,2.3921,10,10,"(512, 512)"
+21,Aortic Dilation,1.6296,1.6296,6,6,"(336, 336)"
+22,Coronary Artery Anomaly,1.4938,1.4938,8,8,"(288, 288)"
+23,Pulmonary Atresia,1.9691,1.9691,6,6,"(384, 384)"
+24,Tetralogy of Fallot,1.7654,1.7654,5,5,"(320, 320)"
+25,Tetralogy of Fallot,2.1729,2.1729,7,7,"(432, 432)"
+26,Truncus Arteriosus,1.4938,1.4938,5,5,"(288, 288)"
+27,Cardiomyopathy,1.7654,1.7654,8,8,"(336, 336)"
+28,Tetralogy of Fallot,2.037,2.037,7,7,"(384, 384)"
+29,Tetralogy of Fallot,2.5803,2.5803,8,8,"(480, 480)"
+30,Pulmonary Stenosis,1.7654,1.7654,8,8,"(320, 320)"
+31,Tetralogy of Fallot,2.4445,2.4445,7,7,"(480, 480)"
+32,Tetralogy of Fallot,2.037,2.037,8,8,"(384, 384)"
+33,Tetralogy of Fallot,1.7654,1.7654,6,6.6,"(320, 320)"
+34,Double Outlet Right Ventricle,1.6296,1.6296,5,5,"(320, 320)"
+35,Tetralogy of Fallot,1.5617,1.5617,5,5,"(320, 320)"
+36,Tetralogy of Fallot,1.7654,1.7654,5,5,"(320, 320)"
+37,Tetralogy of Fallot,1.358,1.358,6,6,"(256, 256)"
+38,Pulmonary Atresia,1.9012,1.9012,8,8,"(384, 384)"
+39,Double Outlet Right Ventricle,1.5617,1.5617,5,5,"(288, 288)"
+40,Tetralogy of Fallot,2.1729,2.1729,8,8,"(432, 432)"
+41,Tetralogy of Fallot,2.3766,2.3766,8,8,"(448, 448)"
+42,Double Outlet Right Ventricle,1.6296,1.6296,5,5,"(320, 320)"
+43,Transposition of the Great Arteries,2.5803,2.5803,8,8,"(480, 480)"
+44,Transposition of the Great Arteries,1.4938,1.4938,6,6,"(288, 288)"
+45,Tetralogy of Fallot,2.1729,2.1729,7,7,"(448, 448)"
+46,Tetralogy of Fallot,1.5617,1.5617,5,5,"(288, 288)"
+47,Truncus Arteriosus,1.7654,1.7654,7,7,"(320, 320)"
+48,Tetralogy of Fallot,1.6296,1.6296,5,5,"(320, 320)"
+49,Double Outlet Right Ventricle,1.4938,1.4938,5,5,"(288, 288)"
+50,Coronary Artery Anomaly,1.6296,1.6296,6,6,"(320, 320)"
+51,Coronary Artery Anomaly,2.1729,2.1729,8,8,"(256, 256)"
+52,Coronary Artery Anomaly,1.6296,1.6296,7.5,7.5,"(352, 352)"
+53,Coronary Artery Anomaly,1.7654,1.7654,6,6,"(320, 320)"
+54,Coronary Artery Anomaly,1.358,1.358,5,5,"(288, 288)"
+55,Double Outlet Right Ventricle,1.7665,1.7665,6,6,"(320, 320)"
+56,Double Outlet Right Ventricle,1.4941,1.4941,6,6,"(192, 192)"
+57,Double Outlet Right Ventricle,2.0373,2.0373,7,7,"(256, 256)"
+58,Double Outlet Right Ventricle,2.1726,2.1726,8,8,"(288, 288)"
+59,Double Outlet Right Ventricle,1.9008,1.9008,8,8,"(384, 384)"
+60,Transposition of the Great Arteries,2.5813,2.5813,10,10,"(320, 320)"
+61,Transposition of the Great Arteries,1.5621,1.5621,9,9,"(224, 224)"
+62,Transposition of the Great Arteries,2.1729,2.1729,8,8,"(256, 256)"
+63,Transposition of the Great Arteries,2.1051,2.1051,8,8,"(256, 256)"
+64,Transposition of the Great Arteries,2.2406,2.2406,8,8,"(256, 256)"
