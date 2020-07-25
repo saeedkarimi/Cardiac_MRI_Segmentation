@@ -10,7 +10,7 @@ Imaging studies were performed on either a 1.5 Tesla Philips Achieva or a 3.0 Te
 
 ## Post-Processing of CMR Data
 
-Each image’s original size and its corresponding segmentation was 512 × 512 pixels. The original dataset was first preprocessed by center cropping each image to the size 445 × 445, after removing patients’ information and anonymizing the data. To reduce the dimensionality, each cropped image was subsequently resized to 128 × 128 using the imresize function in the open-source Python library SciPy. The entire process was performed using two different down-sampling methods: (1) nearest-neighbor down-sampling and (2) bi-cubical down-sampling. For training data, twenty-six patients (10 TOFs, 4 DORVs, 4 TGAs, 4 CAAs and 4 patients with cardiomyopathy) were selected whereas the remaining 38 patients were used as test data.
+Each image’s original size and its corresponding segmentation was 512 × 512 pixels. The original dataset was first preprocessed by center cropping each image to the size 445 × 445, after removing patients’ information and anonymizing the data. To reduce the dimensionality, each cropped image was subsequently resized to 128 × 128 using the imresize function in the open-source Python library SciPy. The entire process was performed using two different down-sampling methods: (1) nearest-neighbor down-sampling and (2) bi-cubical down-sampling. Patient's information after preprocessing is provided in the metadata file. For training data, twenty-six patients (10 TOFs, 4 DORVs, 4 TGAs, 4 CAAs and 4 patients with cardiomyopathy) were selected whereas the remaining 38 patients were used as test data.
 
 ## Training and Test Subjects
 
