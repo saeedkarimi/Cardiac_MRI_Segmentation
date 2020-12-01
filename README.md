@@ -28,4 +28,4 @@ The authors wish to thank all participants and staff in this study that was carr
 
 ## Copyright
 
-The data may be used provided that the source of the data ([Web Link](https://github.com/saeedkarimi/Cardiac_MRI_Segmentation)) is acknowledged.
+The data may be used provided that the source of the data and study ([Web Link](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-020-00678-0)) is cited.
